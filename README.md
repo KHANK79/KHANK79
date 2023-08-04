@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-KHANK79/KHANK79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KHANK79is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
   
